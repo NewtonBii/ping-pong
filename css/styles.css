@@ -1,0 +1,15 @@
+.sidebar{
+  float: right;
+  width: 30%;
+  background-color: grey;
+  height: 500px;
+}
+/*font-family: 'Varela Round', sans-serif;
+font-family: 'Bree Serif', serif;
+font-family: 'Play', sans-serif;*/
+body{
+  font-family: 'Varela Round', sans-serif;
+  background-image: url("../img/pingpong.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
