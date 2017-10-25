@@ -13,3 +13,8 @@ body{
   background-repeat: no-repeat;
   background-size: cover;
 }
+.well{
+  background-color: white;
+  opacity: 0.8;
+  width: 800px;
+}
