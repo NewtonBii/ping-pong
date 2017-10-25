@@ -1,0 +1,41 @@
+.sidebar{
+  float: right;
+  width: 20%;
+  background-color: white;
+  height: 100px;
+  font-family: 'Bree Serif',serif;
+  font-weight: bolder;
+  border-width: thick;
+}
+/*ffont-family: 'Varela Round', sans-serif;
+font-family: 'Bree Serif', serif;
+font-family: 'Play', sans-serif;
+font-family: 'Russo One', sans-serif;*/
+body{
+  font-family: 'Varela Round', sans-serif;
+  background-image: url("../img/pingpong.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.well#about{
+  background-color: white;
+  opacity: 0.9;
+  width: 800px;
+  font-weight: bold;
+}
+.jumbotron{
+  font-family: 'Russo One', sans-serif;
+  background-color: #BBE5F7;
+  opacity: 1;
+}
+.well#sidebar-intro{
+  background-color: #BBE5F7;
+  opacity: 1;
+}
+.container{
+  background-color: white;
+  opacity: 0.8;
+}
+.panel-footer{
+  background-color: white;
+}
