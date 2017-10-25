@@ -19,15 +19,20 @@ body{
 }
 .well#about{
   background-color: white;
-  opacity: 0.8;
+  opacity: 0.9;
   width: 800px;
   font-weight: bold;
 }
 .jumbotron{
   font-family: 'Russo One', sans-serif;
   background-color: #BBE5F7;
-  opacity: 0.8;
+  opacity: 1;
 }
 .well#sidebar-intro{
-  background-color: #DBF1FA;
+  background-color: #BBE5F7;
+  opacity: 1;
+}
+.container{
+  background-color: white;
+  opacity: 0.8;
 }
