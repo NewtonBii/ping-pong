@@ -13,8 +13,8 @@ $("form.ping").submit(function(event){
   else {
     $("#output ul").append('<li>'+index+'</li>')
   }
-
   }
-
   event.preventDefault();
+  number.html();
+
 });
