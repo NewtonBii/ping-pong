@@ -1,10 +1,10 @@
 $("form.ping").submit(function(event){
   var number = parseInt($("input").val());
-  for (var index = 0; index <= number; index+=1) {
+  for (var index = 1; index <= number; index+=1) {
   if (index%3==0) {
-    alert("ping")
+    $("#output ul").append('<li>'+"ping"+'</li>')
   } else {
-    alert(index)
+    $("#output ul").append('<li>'+index+'</li>')
   }
   }
   event.preventDefault();
